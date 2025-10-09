@@ -4,4 +4,4 @@
 
 [Intro to Matching Engines](https://databento.com/blog/introduction-matching-engines) by Databento.  A guide to all you need to know about matching engines.
 
-[Patent for Exchange] (https://patents.google.com/patent/US8868461B2) by Miax. Schematics and diagrams for typical implementation of an electronic exchange.
+[Patent for Exchange](https://patents.google.com/patent/US8868461B2) by Miax. Schematics and diagrams for typical implementation of an electronic exchange.
